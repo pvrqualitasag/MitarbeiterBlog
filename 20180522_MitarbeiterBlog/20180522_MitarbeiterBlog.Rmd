@@ -1,0 +1,40 @@
+---
+title: 'Mitarbeiter Blog: Peter'
+author: "Peter von Rohr"
+date: "5/22/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## In zwei Welten zu Hause
+...
+
+
+## Bezug zur Landwirtschaft
+Meine Jugendzeit bis zum 18. Lebensjahr verbrachte ich auf einem Bauernhof in der Ostschweiz. Daher hatte ich schon früh einen engen Bezug zur Landwirtschaft. Da wir zu Hause keinen eigenen Hof hatten, folgte ich dem väterlichen Rat und ging zur Schule, so lange ich konnte. Daraus wurde dann ein Agronomie-Studium an der ETH. 
+
+Im Anschluss an das Studium wollte ich, wie so viele andere Mitstudierende, mein erworbenes Wissen an einer der damals noch zahlreichen landwirtschaftlichen Schulen direkt an die jungen Landwirte weitergeben. Durch die Erschütterungen einer massiven Restrukturierungswelle wurden eine ganze Reihe von landwirtschaftlichen Schulen, welche heute als LBBZ bezeichnet werden, geschlossen. Damit war ich gezwungen einen Plan-B für meine berufliche Laufbahn zu finden.
+
+
+## Freiheit in der Forschung
+Anfangs der 90-er Jahre war es nicht sehr populär sich für eine Diss zu verpflichten. Die meisten Leute wollten den staubigen Schulstuben möglichst schnell entfliehen. So waren einige unserer Professoren recht verzweifelt auf der Suche nach Doktoranden. Die mir angebotene Doktoratsstelle auf dem Gebiet der wirtschaftlichen Bedeutung von Fleischqualitätsmerkmalen beim Schwein war der reine Luxus. Bei minimaler Verwantwortung und maximaler Freiheit war das eigentlich schon fast wie der Himmel auf Erden. Leider realisierte ich mein damaliges Glück erst viel später. In dieser Zeit konnte ich meine Vorliebe für die Forschung richtig entdecken. 
+
+Diese Vorliebe gepaart mit dem Drang die weite Welt zu entdecken, führten mich ins Postdoc in die USA, genauer an die "Virginia Polytechnic and State University" in Blacksburg. Das Land der unbegrenzten Möglichkeiten überraschte mich in meiner Naivität gleich mit mehreren Kulturschocks. Der Ort Blacksburg bestand nur aus einer Universität in Mitten eines grossen Waldes im Herz des Gebirgszugs der Apalachen. Mein Büro war vor meiner Zeit eine fensterlose Abstellkammer, deren Wände allmählich mit Konferenzpostern dekoriert wurden. 
+
+
+## Informatik
+Zurück in der Schweiz, war die weitere Tätigkeit in der Tierzucht nicht möglich, da sich die ETH entschied die damals ausgeschriebene Assistenzprofessur an einen international renomierten Forscher aus Indien zu vergeben. Dieser Umstand zwang mich zu einer Neuorientierung. Glücklicherweise war ich während meines Postdocs in den USA mit der Auswertung von Genexpressionsdaten in Kontakt gekommen. Diese Technologie war damals noch ganz neu und an der ETH begann man sich auch dafür zu interessieren. Meine zwar noch rudimentären Erfahrungen auf diesem Gebiet verhalfen mir zu einer Stelle im Departement Informatik an der ETH. Ich träumte davon meine Ideen auf dem Gebiet der Genexpression zusammen mit einer Doktorandin umsetzen zu können. Daraus wurde aber nichts. Der universitäre Alltag mit anderen Projekten und Vorlesungen liessen dafür keinen Platz. Dazu kam ein ungutes Gefühl als Quereinsteiger in der Informatik nie ernst genommen zu werden. Dieses ungute Gefühl räumte ich aus der Welt indem ich nochmals zur Schule ging und ein Informatikstudium absolvierte. Nach meinem Abschluss arbeitete ich zuerst in einem Spin-Off der ETH namens Nebion.
+
+
+## Qualitas AG
+Im Anschluss an meine Stelle bei Nebion versuchte ich mein Glück bei einer IT-Support-Firma. Ich musste aber schnell feststellen, dass der IT-Support nicht meine Welt ist. Bei Qualitas angekommen kann ich nun meinen Bezug zur Landwirtschaft mit meinen Erfahrungen in der Informatik und der Statistik gut kombinieren und auch täglich einsetzen. 
+
+
+
+Ähnlich wie im Rest unserer Gesellschaft werden auch in der Tierzucht immer mehr Daten gesammelt. Aktuell werden neben Produktionsmerkmalen auch Eigenschaften im Bereich der Tiergesundheit und der Anpassungsfähigkeit der Tiere an die Umwelt erhoben. Die Analyse der erhobenen Daten unserer Nutztiere   Somit eröffnen sich immer neue Betätigungsfelder in der Gewinnung von neuen Erkenntnissen aus den neu entwickelten Datenanalysen. 
+
+
